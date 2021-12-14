@@ -3,7 +3,7 @@
 <!-- - 📧 Contate-me no email: vvsspp423@gmail.com --> 
 
 - 🔭 Atualmente trabalho como Desenvolvedor de front-end Trainee na Lab2Dev
-- 📚 Estudando React Native e Javascript
+- 📚 Estudando Javascript e SAPUI5
 - 📫 Contate-me no email: vvsspp423@gmail.com
 - 😄 Pronomes: ele/dele
 
