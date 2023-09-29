@@ -1,32 +1,15 @@
-### Hello World! Eu sou o Vitor Silva 😎
+# Vitor Santos
 
-<!-- - 📧 Contate-me no email: vvsspp423@gmail.com --> 
+Denvolvedor BTP em [@lab2dev](https://lab2dev.com/).
 
-- 🔭 Atualmente trabalho como Desenvolvedor SAP BTP
-- 📚 Estudando Javascript e SAPUI5
-- 📫 Contate-me no email: vvsspp423@gmail.com
-- 😄 Pronomes: ele/dele
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%Santos-blueviolet?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitors-santos/)](https://www.linkedin.com/in/vitors-santos/) 
+[![Gmail Badge](https://img.shields.io/badge/-vvsspp423@gmail.com-blueviolet?logo=gmail&logoColor=white&link=mailto:vvsspp423@gmail.com)](mailto:vvsspp423@gmail.com)
 
-<div align="center">
-  <a href="https://github.com/VitorSilva-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSilva-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSilva-dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/_.vitor.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitors-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+Sou desenvolvedor front-end fascinado pelo aprendizado e focado em estar sempre estar no próximo nível.
+
+Tecnologias que utilzo e aprendo:
+
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="SAP UI5" width="26px" src="https://github.com/SAP/ui5-webcomponents/blob/main/packages/playground/assets/images/ui5-logo.png" />
+<img align="left" alt="SAP Process Automation" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/robot.svg" />
