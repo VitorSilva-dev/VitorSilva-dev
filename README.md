@@ -9,7 +9,7 @@ Sou desenvolvedor front-end fascinado pelo aprendizado e focado em estar sempre 
 
 Tecnologias que utilzo e aprendo:
 
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="SAP UI5" width="26px" src="https://github.com/SAP/ui5-webcomponents/blob/main/packages/playground/assets/images/ui5-logo.png" />
-<img align="left" alt="SAP Process Automation" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/robot.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="SAP UI5" width="26px" src="https://raw.githubusercontent.com/SAP/ui5-webcomponents/blob/main/packages/playground/assets/images/ui5-logo.png" />
+<img align="left" alt="SAP Process Automation" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/robot.svg" />
