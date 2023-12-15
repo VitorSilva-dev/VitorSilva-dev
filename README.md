@@ -7,7 +7,7 @@ Denvolvedor BTP em [@lab2dev](https://lab2dev.com/).
 
 Sou um desenvolvedor BTP apaixonado pelo aprendizado e dedicado a sempre buscar o aprimoramento pessoal e o crescimento do meu conhecimento.
 
-Tecnologias que utilzo e aprendo:
+Tecnologias que utilzo e estudo:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
