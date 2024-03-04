@@ -5,7 +5,7 @@ Denvolvedor BTP & Front-end em [@lab2dev](https://lab2dev.com/).
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Santos-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitors-santos/)](https://www.linkedin.com/in/vitors-santos/) 
 [![Gmail Badge](https://img.shields.io/badge/-vvsspp423@gmail.com-red?logo=gmail&logoColor=white&link=mailto:vvsspp423@gmail.com)](mailto:vvsspp423@gmail.com)
 
-Sou um desenvolvedor BTP/Front-end apaixonado pelo aprendizado e dedicado a sempre buscar o aprimoramento pessoal e o crescimento do meu conhecimento.
+Sou um desenvolvedor BTP & Front-end apaixonado pelo aprendizado e dedicado a sempre buscar o aprimoramento pessoal e o crescimento do meu conhecimento.
 
 Tecnologias que estudo ou utilzo:
 
