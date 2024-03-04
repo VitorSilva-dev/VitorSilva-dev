@@ -9,6 +9,7 @@ Sou um desenvolvedor BTP/Front-end apaixonado pelo aprendizado e dedicado a semp
 
 Tecnologias que estudo ou utilzo:
 
+<img align="left" alt="SAP UI5" width="26px" src="https://raw.githubusercontent.com/SAP/ui5-webcomponents/main/packages/playground/assets/illustrations/compatibility-frameworks/UI5.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
@@ -16,4 +17,3 @@ Tecnologias que estudo ou utilzo:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SAP UI5" width="26px" src="https://raw.githubusercontent.com/SAP/ui5-webcomponents/main/packages/playground/assets/illustrations/compatibility-frameworks/UI5.svg" />
